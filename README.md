@@ -26,7 +26,7 @@ To set up the YouTube Data API, follow the instructions in the script comments o
 
 ## Author
 
-[Shivam Wadhw](http://wadhwashivam.github.io/Resume/)
+[Shivam Wadhwa](http://wadhwashivam.github.io/Resume/)
 
 
 
